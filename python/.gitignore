@@ -1,0 +1,8 @@
+MANIFEST
+*.egg-info
+.deps
+.libs
+Makefile
+Makefile.in
+*.lo
+*.la
